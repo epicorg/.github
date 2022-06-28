@@ -20,7 +20,7 @@ Here is how to install the game.
 
 - Compile the APK file from the [client source](https://github.com/epicorg/game_graphics)
 - Install the game using the compiled APK
-- Insert the IP address of the server in the settings
+- Start the app and insert the IP address of the server
 
 
 <!--
