@@ -13,7 +13,7 @@ Here is how to install the game.
 ### 💻 Server Installation
 
 - Download the [server source](https://github.com/epicorg/game_server)
-- Run the server via [`ServerLauncher`](https://github.com/epicorg/game_server/blob/master/src/server/ServerLauncher.java)
+- Run the server via [`ServerLauncher`](https://github.com/epicorg/game_server/blob/master/src/main/java/server/ServerLauncher.java)
 
 
 ### 📱 Client Installation
