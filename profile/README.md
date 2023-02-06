@@ -22,7 +22,7 @@ Here is how to install the game.
 - Install the game using the compiled APK
 - Start the app and insert the IP address of the server
 - Sugnup and login (you can use the test user `epicorg` with the password `epicorg420`)
-- Create a room
+- Create a room and join it
 - The game automatically starts when the room is full
 
 
