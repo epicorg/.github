@@ -21,7 +21,7 @@ Here is how to install the game.
 - Compile the APK file from the [client source](https://github.com/epicorg/game_graphics)
 - Install the game using the compiled APK
 - Start the app and insert the IP address of the server
-- Sugnup and login (you can use the test user `epicorg` with the password `epicorg420`)
+- Signup and login (you can use the test user `epicorg` with the password `epicorg420`)
 - Create a room and join it
 - The game automatically starts when the room is full
 
