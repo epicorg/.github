@@ -1,3 +1,5 @@
+<a href="https://github.com/epicorg"><img src="/logo/epicorg_logo.png" align="right" width="100" height="100" /></a>
+
 # EpicOrg 🐇
 
 EpicOrg is a 3D multiplayer game for Android.
